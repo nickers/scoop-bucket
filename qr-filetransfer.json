@@ -1,6 +1,6 @@
 {
     "version": "0.1",
-    "url": "https://github.com/nickers/qr-filetransfer/releases/download/v0.1/qr-filetransfer.zip",
+    "url": "https://github.com/nickers/qr-filetransfer/releases/download/v0.1/qr-filetransfer.7z",
     "extract_dir": "qr-filetransfer",
     "bin": "qr-filetransfer.exe",
     "license": "MIT",
